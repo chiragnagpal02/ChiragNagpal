@@ -4,7 +4,7 @@ import { SectionWrapper } from '../hoc';
 import { fadeIn, textVariant } from '../utils/motion';
 
 import { testimonials } from '../constants';
-import feedback from 'aliexpress-product-scraper/src/feedback';
+// import feedback from 'aliexpress-product-scraper/src/feedback';
 
 const FeedbackCard = ({ index, testimonial, name, designation, company, image }) => (
   <motion.div
