@@ -26,6 +26,7 @@ import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 import python from "./tech/python.png";
+import outsystems from "./tech/outsystems.png";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -36,6 +37,7 @@ import tictag from "./company/tictag.png";
 import siemens from "./company/siemens.svg";
 import cellstrat from "./company/cellstrat.png";
 import unhad from "./company/unhad.png";
+import EY_Logo from "./company/EY_Logo.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -80,5 +82,7 @@ export {
   unhad,
   poolpal,
   siemens_project,
-  icc
+  icc,
+  EY_Logo,
+  outsystems
 };
