@@ -36,6 +36,7 @@ import {
   icc,
   EY_Logo,
   outsystems,
+  bb
 } from "../assets";
 
 export const navLinks = [
